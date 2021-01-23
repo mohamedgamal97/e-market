@@ -1,0 +1,7 @@
+.show-result {
+    background-color: rgb(15, 28, 39);
+    padding: 10px;
+    margin: 15px 0;
+    color: aliceblue;
+     display: none;
+}
